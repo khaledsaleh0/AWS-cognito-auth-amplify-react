@@ -1,3 +1,4 @@
-*.React linguist-detectable=true
+*.html linguist-detectable=false
+*.react linguist-detectable=false
 *.javascript linguist-detectable=true
 *.cognito linguist-detectable=true
